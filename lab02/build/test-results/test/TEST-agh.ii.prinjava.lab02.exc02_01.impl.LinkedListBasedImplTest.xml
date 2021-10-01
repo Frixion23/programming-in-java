@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-01T06:53:09" hostname="LAPTOP-GRIR0463" time="0.006">
+  <properties/>
+  <testcase name="newStackIsEmpty()" classname="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" time="0.001"/>
+  <testcase name="pop()" classname="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" time="0.001"/>
+  <testcase name="peek()" classname="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
